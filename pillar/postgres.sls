@@ -1,0 +1,2 @@
+postgres:
+  superpass: postgres
